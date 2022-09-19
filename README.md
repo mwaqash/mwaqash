@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Waqas Hafeez
+- 👋 Hi, I’m Vikki
 - 👀 I’m interested in Cloud/IoT/Mobile/Web/Robotics etc.
 - 🌱 I’m currently learning cloud technologies
 - 💞️ I’m looking to collaborate on anything possible
